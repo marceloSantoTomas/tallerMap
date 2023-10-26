@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">tallerMap</string>
+
+
+    <string name="txtLatitud">Ingrese Latitud</string>
+    <string name="txtLongitud">Ingrese Longitud</string>
+
+
+    //boton para ver video
+    <string name="btnVideo">Conoce nuestra Universidad</string>
+</resources>
